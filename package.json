@@ -1,0 +1,15 @@
+{
+  "name": "codex-pet-silver-frost",
+  "version": "1.0.0",
+  "description": "银霜，一只 Codex 银渐层小猫桌宠。",
+  "private": true,
+  "bin": {
+    "codex-pet-silver-frost": "install.js"
+  },
+  "files": [
+    "install.js",
+    "silver-frost/pet.json",
+    "silver-frost/spritesheet.webp"
+  ],
+  "license": "MIT"
+}
